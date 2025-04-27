@@ -1,0 +1,3 @@
+file(s)Date = 24/4/2025
+AMT_of_files(WO.MD) = 7
+AMT_of_files(W.MD) = 8
